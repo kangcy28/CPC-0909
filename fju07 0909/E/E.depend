@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536469297 source:c:\users\nt2018\desktop\e\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
